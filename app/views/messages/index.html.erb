@@ -1,9 +1,15 @@
 <h1 class="text-center">All messages</h1>
 
+<p>
+  <%= link_to "Retour à l'accueil", root_path, class: "btn btn-primary" %>
+  <%= link_to "Ajouter un message", new_message_path, class: "btn btn-success" %>
+</p>
+
 <ul>
   <% @messages.each do |message| %>
   <br>
   <br>
   <li><%= message.c_prenom %>  / <%= message.c_name %> / <%= message.c_mail %> </li>
+  <%= link_to "voir mes informations", message_path(message) %>
   <% end %>
 </ul>
