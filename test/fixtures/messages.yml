@@ -1,0 +1,65 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  c_name: MyString
+  c_prenom: MyString
+  c_mail: MyString
+  c_tel_fixe: MyString
+  c_tel_mob: MyString
+  c_date_naissance: MyString
+  c_ville_naissance: MyString
+  c_pays_naissance: MyString
+  c_rue: MyString
+  c_codepostal: MyString
+  c_ville: MyString
+  c_pays: MyString
+  dest_nom: MyString
+  dest_prenom: MyString
+  dest_mail: MyString
+  dest_tel_fix: MyString
+  dest_tel_mob: MyString
+  dest_rue: MyString
+  dest_codepostal: MyString
+  dest_ville: MyString
+  dest_pays: MyString
+  dest_2_nom: MyString
+  dest_2_prenom: MyString
+  dest_2_mail: MyString
+  dest_2_tel_fix: MyString
+  dest_2_tel_mob: MyString
+  dest_2_rue: MyString
+  dest_2_codepostal: MyString
+  dest_2_ville: MyString
+  dest_2_pays: MyString
+
+two:
+  c_name: MyString
+  c_prenom: MyString
+  c_mail: MyString
+  c_tel_fixe: MyString
+  c_tel_mob: MyString
+  c_date_naissance: MyString
+  c_ville_naissance: MyString
+  c_pays_naissance: MyString
+  c_rue: MyString
+  c_codepostal: MyString
+  c_ville: MyString
+  c_pays: MyString
+  dest_nom: MyString
+  dest_prenom: MyString
+  dest_mail: MyString
+  dest_tel_fix: MyString
+  dest_tel_mob: MyString
+  dest_rue: MyString
+  dest_codepostal: MyString
+  dest_ville: MyString
+  dest_pays: MyString
+  dest_2_nom: MyString
+  dest_2_prenom: MyString
+  dest_2_mail: MyString
+  dest_2_tel_fix: MyString
+  dest_2_tel_mob: MyString
+  dest_2_rue: MyString
+  dest_2_codepostal: MyString
+  dest_2_ville: MyString
+  dest_2_pays: MyString

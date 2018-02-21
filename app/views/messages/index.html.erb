@@ -1,0 +1,9 @@
+<h1 class="text-center">All messages</h1>
+
+<ul>
+  <% @messages.each do |message| %>
+  <br>
+  <br>
+  <li><%= message.c_prenom %>  / <%= message.c_name %> / <%= message.c_mail %> </li>
+  <% end %>
+</ul>
